@@ -34,17 +34,27 @@
       "isFeatured": true,
       "isActive": true,
       "uploadedAt": "2025-11-22T16:20:50.042Z",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "bannerUrl": "https://image.tmdb.org/t/p/original/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+      "rating": 8.1,
+      "description": "In the early Meiji era, Shujiro, once known as an undefeated samurai, decides to participate in a deadly survival game to save his family and villagers.",
+      "title": "Last Samurai Standing",
+      "releaseYear": 2025,
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/wKNEFlrs68rzweVzfwkjWmkJqu7.jpg",
       "seasons": [
         {
           "seasonNumber": 1,
-          "episodeCount": 0,
+          "episodeCount": 6,
           "episodes": [
             {
               "episodeNumber": 1,
               "title": "Kodoku",
               "thumbnailUrl": "https://image.tmdb.org/t/p/w300/fyygGWhUry2C3wabEjrk6sllB78.jpg",
               "videoUrls": {
-                "default": "https://ok.ru/video/10833271130645"
+                "default": "https://ok.ru/videoembed/10833271130645?nochat=1"
               },
               "downloadUrls": {}
             },
@@ -85,18 +95,8 @@
             }
           ]
         }
-      ],
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "bannerUrl": "https://image.tmdb.org/t/p/original/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
-      "rating": 8.1,
-      "description": "In the early Meiji era, Shujiro, once known as an undefeated samurai, decides to participate in a deadly survival game to save his family and villagers.",
-      "title": "Last Samurai Standing",
-      "releaseYear": 2025,
-      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/wKNEFlrs68rzweVzfwkjWmkJqu7.jpg"
+      ]
     }
   ],
-  "exported_at": "2025-11-26T09:00:31.868Z"
+  "exported_at": "2025-11-26T09:21:10.086Z"
 }
