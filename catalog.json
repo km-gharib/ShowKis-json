@@ -1,0 +1,541 @@
+{
+  "movies": [
+    {
+      "id": "dPq46kpN6j0qWrPatZxk",
+      "title": "Superman",
+      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+      "rating": 7.413,
+      "releaseYear": 2025,
+      "duration": 130,
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "isFeatured": false,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {},
+      "downloadUrls": {},
+      "uploadedAt": {
+        "_seconds": 1763826563,
+        "_nanoseconds": 4000000
+      }
+    },
+    {
+      "id": "OmNdS4rfAZwFGLWErwby",
+      "title": "Nobody",
+      "description": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
+      "rating": 7.9,
+      "releaseYear": 2021,
+      "duration": 91,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "downloadUrls": {},
+      "uploadedAt": {
+        "_seconds": 1763826549,
+        "_nanoseconds": 232000000
+      },
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v6zbe3o/?pub=4nouw2"
+      },
+      "isFeatured": true
+    }
+  ],
+  "series": [
+    {
+      "id": "YPZrYRbJngKvIYD6NSg2",
+      "title": "Breaking Bad",
+      "description": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "rating": 8.9,
+      "releaseYear": 2008,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/63FA8vwSZnXkGxedrDQwni4JuZN.jpg",
+      "type": "series",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodeCount": 0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Pilot",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/88Z0fMP8a88EpQWMCs1593G0ngu.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Cat's in the Bag...",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 3,
+              "title": "...And the Bag's in the River",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/vlgGfjtuO2WSLT7qYDVlvTpSVW.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Cancer Man",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/2UbRgW6apE4XPzhHPA726wUFyaR.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Gray Matter",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/82G3wZgEvZLKcte6yoZJahUWBtx.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Crazy Handful of Nothin'",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/rCCLuycNPL30W3BtuB8HafxEMYz.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 7,
+              "title": "A No Rough Stuff Type Deal",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodeCount": 0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Seven Thirty-Seven",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/6Uo1z56uKnX60JXvYYFWACHR31u.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Grilled",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/th3SNe0gNgRguv8VveLd4f2JcaH.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Bit by a Dead Bee",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/abgJTOWYPdZGxAWhsg6lmtM8qcU.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Down",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/gMXeL0qcQZi5Tfd4UhnkRJeI9oa.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Breakage",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/vzG0WSwKDE0457DZ6OO6NPpazQF.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Peekaboo",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/tfCuh20gNHGGF6A1te3NmiqML6D.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Negro y Azul",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Better Call Saul",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/KmFdF23FtbPwwz3FJF2T885r2Z.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 9,
+              "title": "4 Days Out",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 10,
+              "title": "Over",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/wGobAJ0h54788xCMkRKaJTQMMtq.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 11,
+              "title": "Mandala",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 12,
+              "title": "Phoenix",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/zxFfozd55eJ6Aa4J0pd3SRqJl5l.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 13,
+              "title": "ABQ",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/xdSWJjptnLAvFnh5Is6iJPlH1ds.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            }
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "episodeCount": 0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "No Más",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/g4taqxGFx9z8ovHhiaa2jvQFd0Z.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Caballo sin Nombre",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/eQYTr6cH834QyF3cE1VQymwolE1.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 3,
+              "title": "I.F.T.",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Green Light",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Más",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Sunset",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 7,
+              "title": "One Minute",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 8,
+              "title": "I See You",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/edBDR59bzVWdMtCawimRzOMgrlW.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 9,
+              "title": "Kafkaesque",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 10,
+              "title": "Fly",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/3ns0vN3bEl7elFWoodHJ9nDBogC.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 11,
+              "title": "Abiquiu",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 12,
+              "title": "Half Measures",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/mOvMekI0YKm20I42XK93mPCQ4ru.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 13,
+              "title": "Full Measure",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/mDUs18asTVVfqd56scRQ7W9r781.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            }
+          ]
+        },
+        {
+          "seasonNumber": 4,
+          "episodeCount": 0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Box Cutter",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/2g6dLvOrLE7tpJatonCchLDkDyF.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Thirty-Eight Snub",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ra0R3q9jEOObo6gspjYcbqPmIM.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Open House",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/Ac0wu93r4LaZk07wa7PiWpNOOru.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Bullet Points",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Shotgun",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/wbCdpu4qlciRQMyKmcstoadcFak.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Cornered",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Problem Dog",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Hermanos",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/jwGeSa4lw93UqvxoII5kb4nko1b.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 9,
+              "title": "Bug",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 10,
+              "title": "Salud",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/dBrs0Npmn76g81yel2mjK7mTaOj.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 11,
+              "title": "Crawl Space",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/xMR8o7N4ZBacim1druJ6PanTlPQ.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 12,
+              "title": "End Times",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 13,
+              "title": "Face Off",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/Apl61kYZF2zQlUMh13t8zmUD7Vr.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            }
+          ]
+        },
+        {
+          "seasonNumber": 5,
+          "episodeCount": 0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Live Free or Die",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Madrigal",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/9WIzJqqUthdASBRE1Ts8ymrDhIv.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Hazard Pay",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/l84H1dZVkQGgFVomKHc67RKaEC2.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Fifty-One",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Dead Freight",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ay9uj9CMQJezaB407JCPMDYSptK.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Buyout",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/6SHawaVRg4Iw3Ry2adH29TjHYhK.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Say My Name",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Gliding Over All",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 9,
+              "title": "Blood Money",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/1Oe2rlJ4qbZdwRmaQjh57vH2gUb.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 10,
+              "title": "Buried",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 11,
+              "title": "Confessions",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/w8Aw3SPdT3uyZpP2pCnKHEIMYj3.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 12,
+              "title": "Rabid Dog",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/5VkI8lm7Xcmlxk92pWRyW341d70.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 13,
+              "title": "To'hajiilee",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/lunoCRprYl0jEJEkGTS8v6eFq1n.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 14,
+              "title": "Ozymandias",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/k80r5JYO4LLrPJbWDXmlg7IxRMI.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 15,
+              "title": "Granite State",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/AswBSL38PDzTb7qZU2hqv58TuxG.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 16,
+              "title": "Felina",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            }
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "uploadedAt": "2025-11-22T16:20:50.042Z"
+    }
+  ],
+  "exported_at": "2025-11-22T16:21:07.064Z"
+}
