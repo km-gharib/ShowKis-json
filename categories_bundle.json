@@ -1,49 +1,26 @@
 {
   "index": {
-    "science_fiction": {
-      "movies": 1,
-      "series": 0
-    },
-    "adventure": {
-      "movies": 1,
-      "series": 0
-    },
     "action": {
-      "movies": 2,
+      "movies": 1,
       "series": 0
     },
     "thriller": {
       "movies": 1,
       "series": 0
     },
-    "drama": {
+    "action_&_adventure": {
       "movies": 0,
       "series": 1
     },
-    "crime": {
+    "drama": {
       "movies": 0,
       "series": 1
     }
   },
   "docs": {
-    "science_fiction": {
-      "genre": "Science Fiction",
-      "movies": [
-        "dPq46kpN6j0qWrPatZxk"
-      ],
-      "series": []
-    },
-    "adventure": {
-      "genre": "Adventure",
-      "movies": [
-        "dPq46kpN6j0qWrPatZxk"
-      ],
-      "series": []
-    },
     "action": {
       "genre": "Action",
       "movies": [
-        "dPq46kpN6j0qWrPatZxk",
         "OmNdS4rfAZwFGLWErwby"
       ],
       "series": []
@@ -55,20 +32,20 @@
       ],
       "series": []
     },
+    "action_&_adventure": {
+      "genre": "Action & Adventure",
+      "movies": [],
+      "series": [
+        "YPZrYRbJngKvIYD6NSg2"
+      ]
+    },
     "drama": {
       "genre": "Drama",
       "movies": [],
       "series": [
         "YPZrYRbJngKvIYD6NSg2"
       ]
-    },
-    "crime": {
-      "genre": "Crime",
-      "movies": [],
-      "series": [
-        "YPZrYRbJngKvIYD6NSg2"
-      ]
     }
   },
-  "exported_at": "2025-11-22T16:21:06.271Z"
+  "exported_at": "2025-11-26T08:58:06.143Z"
 }
