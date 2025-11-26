@@ -16,7 +16,6 @@
       "type": "movie",
       "isActive": true,
       "viewCount": 0,
-      "downloadUrls": {},
       "uploadedAt": {
         "_seconds": 1763826549,
         "_nanoseconds": 232000000
@@ -24,6 +23,9 @@
       "isFeatured": true,
       "videoUrls": {
         "hd": "https://rumble.com/embed/v702m62/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/mtuwakawaida_1_202511/nobody_1.ia.mp4"
       }
     }
   ],
@@ -56,7 +58,9 @@
               "videoUrls": {
                 "default": "https://rumble.com/embed/v702mag/?pub=4nouw2"
               },
-              "downloadUrls": {}
+              "downloadUrls": {
+                "default": "https://archive.org/download/mwanamapanga01/samurai%2001_1.ia.mp4"
+              }
             },
             {
               "episodeNumber": 2,
@@ -98,5 +102,5 @@
       ]
     }
   ],
-  "exported_at": "2025-11-26T09:49:23.028Z"
+  "exported_at": "2025-11-26T13:51:52.968Z"
 }
