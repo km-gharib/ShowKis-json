@@ -1,11 +1,15 @@
 {
   "index": {
     "action": {
-      "movies": 2,
+      "movies": 3,
       "series": 0
     },
     "thriller": {
-      "movies": 2,
+      "movies": 3,
+      "series": 0
+    },
+    "crime": {
+      "movies": 1,
       "series": 0
     },
     "action_&_adventure": {
@@ -21,6 +25,7 @@
     "action": {
       "genre": "Action",
       "movies": [
+        "80L9LrGKyODq1fk41wrE",
         "ZcQvhDa8PTaMoMVwS5Y2",
         "OmNdS4rfAZwFGLWErwby"
       ],
@@ -29,8 +34,16 @@
     "thriller": {
       "genre": "Thriller",
       "movies": [
+        "80L9LrGKyODq1fk41wrE",
         "ZcQvhDa8PTaMoMVwS5Y2",
         "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "crime": {
+      "genre": "Crime",
+      "movies": [
+        "80L9LrGKyODq1fk41wrE"
       ],
       "series": []
     },
@@ -49,5 +62,5 @@
       ]
     }
   },
-  "exported_at": "2025-11-27T15:40:29.642Z"
+  "exported_at": "2025-11-29T12:34:54.507Z"
 }
