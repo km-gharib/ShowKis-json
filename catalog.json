@@ -134,8 +134,12 @@
               "episodeNumber": 3,
               "title": "Fate",
               "thumbnailUrl": "https://image.tmdb.org/t/p/w300/aIzg1kQ5lKUZ690aJ1DK4hxaL0j.jpg",
-              "videoUrls": {},
-              "downloadUrls": {}
+              "videoUrls": {
+                "default": "https://rumble.com/embed/v70751w/?pub=4nouw2"
+              },
+              "downloadUrls": {
+                "default": "https://archive.org/download/mwanamapanga03/Last.Samurai.Standing.S01E03.ia.mp4"
+              }
             },
             {
               "episodeNumber": 4,
@@ -163,5 +167,5 @@
       ]
     }
   ],
-  "exported_at": "2025-11-29T12:34:55.340Z"
+  "exported_at": "2025-11-29T14:20:36.053Z"
 }
