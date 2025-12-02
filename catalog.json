@@ -1,6 +1,35 @@
 {
   "movies": [
     {
+      "id": "iMC9sCby29flWILi2xR1",
+      "title": "Predator: Badlands",
+      "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "rating": 7.4,
+      "releaseYear": 2025,
+      "duration": 107,
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "isFeatured": true,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v70bo1o/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/mwindaji-ardhimbaya/Predator.Badlands.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1764697215,
+        "_nanoseconds": 645000000
+      }
+    },
+    {
       "id": "JfN1fXvg3kDA2CpsJdyW",
       "title": "Altered",
       "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
@@ -224,5 +253,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-02T10:53:33.936Z"
+  "exported_at": "2025-12-02T17:40:57.546Z"
 }

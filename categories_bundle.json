@@ -1,11 +1,15 @@
 {
   "index": {
-    "science_fiction": {
-      "movies": 1,
+    "action": {
+      "movies": 6,
       "series": 0
     },
-    "action": {
-      "movies": 5,
+    "science_fiction": {
+      "movies": 2,
+      "series": 0
+    },
+    "adventure": {
+      "movies": 1,
       "series": 0
     },
     "thriller": {
@@ -26,21 +30,30 @@
     }
   },
   "docs": {
-    "science_fiction": {
-      "genre": "Science Fiction",
-      "movies": [
-        "JfN1fXvg3kDA2CpsJdyW"
-      ],
-      "series": []
-    },
     "action": {
       "genre": "Action",
       "movies": [
+        "iMC9sCby29flWILi2xR1",
         "JfN1fXvg3kDA2CpsJdyW",
         "0jYGNU4tO2PltFh9O0vH",
         "80L9LrGKyODq1fk41wrE",
         "ZcQvhDa8PTaMoMVwS5Y2",
         "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "science_fiction": {
+      "genre": "Science Fiction",
+      "movies": [
+        "iMC9sCby29flWILi2xR1",
+        "JfN1fXvg3kDA2CpsJdyW"
+      ],
+      "series": []
+    },
+    "adventure": {
+      "genre": "Adventure",
+      "movies": [
+        "iMC9sCby29flWILi2xR1"
       ],
       "series": []
     },
@@ -77,5 +90,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-02T10:53:33.191Z"
+  "exported_at": "2025-12-02T17:40:56.765Z"
 }
