@@ -1,7 +1,11 @@
 {
   "index": {
+    "science_fiction": {
+      "movies": 1,
+      "series": 0
+    },
     "action": {
-      "movies": 4,
+      "movies": 5,
       "series": 0
     },
     "thriller": {
@@ -22,9 +26,17 @@
     }
   },
   "docs": {
+    "science_fiction": {
+      "genre": "Science Fiction",
+      "movies": [
+        "JfN1fXvg3kDA2CpsJdyW"
+      ],
+      "series": []
+    },
     "action": {
       "genre": "Action",
       "movies": [
+        "JfN1fXvg3kDA2CpsJdyW",
         "0jYGNU4tO2PltFh9O0vH",
         "80L9LrGKyODq1fk41wrE",
         "ZcQvhDa8PTaMoMVwS5Y2",
@@ -65,5 +77,5 @@
       ]
     }
   },
-  "exported_at": "2025-11-29T17:21:06.564Z"
+  "exported_at": "2025-12-02T10:53:33.191Z"
 }
