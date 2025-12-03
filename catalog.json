@@ -231,8 +231,12 @@
               "episodeNumber": 4,
               "title": "The Mastermind",
               "thumbnailUrl": "https://image.tmdb.org/t/p/w300/yW9LYldWpJp4nWjK1tptWnL87hd.jpg",
-              "videoUrls": {},
-              "downloadUrls": {}
+              "videoUrls": {
+                "default": "https://rumble.com/embed/v70cvzq/?pub=4nouw2"
+              },
+              "downloadUrls": {
+                "default": "https://archive.org/download/mwanamapanga04/Last.Samurai.Standing.S01E04.ia.mp4"
+              }
             },
             {
               "episodeNumber": 5,
@@ -253,5 +257,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-02T17:40:57.546Z"
+  "exported_at": "2025-12-03T13:20:26.980Z"
 }
