@@ -1,5 +1,17 @@
 {
   "index": {
+    "romance": {
+      "movies": 1,
+      "series": 0
+    },
+    "science_fiction": {
+      "movies": 3,
+      "series": 0
+    },
+    "thriller": {
+      "movies": 5,
+      "series": 0
+    },
     "action": {
       "movies": 7,
       "series": 0
@@ -8,16 +20,8 @@
       "movies": 1,
       "series": 0
     },
-    "science_fiction": {
-      "movies": 2,
-      "series": 0
-    },
     "adventure": {
       "movies": 1,
-      "series": 0
-    },
-    "thriller": {
-      "movies": 4,
       "series": 0
     },
     "crime": {
@@ -34,6 +38,33 @@
     }
   },
   "docs": {
+    "romance": {
+      "genre": "Romance",
+      "movies": [
+        "OJeoH7AxlEhD77oqzNzG"
+      ],
+      "series": []
+    },
+    "science_fiction": {
+      "genre": "Science Fiction",
+      "movies": [
+        "OJeoH7AxlEhD77oqzNzG",
+        "iMC9sCby29flWILi2xR1",
+        "JfN1fXvg3kDA2CpsJdyW"
+      ],
+      "series": []
+    },
+    "thriller": {
+      "genre": "Thriller",
+      "movies": [
+        "OJeoH7AxlEhD77oqzNzG",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE",
+        "ZcQvhDa8PTaMoMVwS5Y2",
+        "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
     "action": {
       "genre": "Action",
       "movies": [
@@ -54,28 +85,10 @@
       ],
       "series": []
     },
-    "science_fiction": {
-      "genre": "Science Fiction",
-      "movies": [
-        "iMC9sCby29flWILi2xR1",
-        "JfN1fXvg3kDA2CpsJdyW"
-      ],
-      "series": []
-    },
     "adventure": {
       "genre": "Adventure",
       "movies": [
         "iMC9sCby29flWILi2xR1"
-      ],
-      "series": []
-    },
-    "thriller": {
-      "genre": "Thriller",
-      "movies": [
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE",
-        "ZcQvhDa8PTaMoMVwS5Y2",
-        "OmNdS4rfAZwFGLWErwby"
       ],
       "series": []
     },
@@ -102,5 +115,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-04T07:17:47.443Z"
+  "exported_at": "2025-12-04T17:39:59.558Z"
 }
