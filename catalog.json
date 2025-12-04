@@ -1,6 +1,34 @@
 {
   "movies": [
     {
+      "id": "vA1fsJjK5N2z108dPo24",
+      "title": "Fury 12 Hours",
+      "description": "A retired Chinese soldier, Lei Jun, finds himself in a race against time when a terrorist attack targets a Chinese community abroad. With only 12 hours to act, he must summon all his strength and courage to protect his fellow citizens and survive the dire situation.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/c2ZtLl1EATKymqUlmNYFdI817tn.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/9pWJnd9jneXRkjOnpHCLN41Bse5.jpg",
+      "rating": 5.9,
+      "releaseYear": 2024,
+      "duration": 0,
+      "genres": [
+        "Action",
+        "Mystery"
+      ],
+      "isFeatured": true,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v70damg/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/ghadhabumasaa12/Fury%2012%20Hours.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1764832644,
+        "_nanoseconds": 711000000
+      }
+    },
+    {
       "id": "iMC9sCby29flWILi2xR1",
       "title": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
@@ -257,5 +285,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-03T13:20:26.980Z"
+  "exported_at": "2025-12-04T07:17:48.213Z"
 }

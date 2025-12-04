@@ -1,7 +1,11 @@
 {
   "index": {
     "action": {
-      "movies": 6,
+      "movies": 7,
+      "series": 0
+    },
+    "mystery": {
+      "movies": 1,
       "series": 0
     },
     "science_fiction": {
@@ -33,12 +37,20 @@
     "action": {
       "genre": "Action",
       "movies": [
+        "vA1fsJjK5N2z108dPo24",
         "iMC9sCby29flWILi2xR1",
         "JfN1fXvg3kDA2CpsJdyW",
         "0jYGNU4tO2PltFh9O0vH",
         "80L9LrGKyODq1fk41wrE",
         "ZcQvhDa8PTaMoMVwS5Y2",
         "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "mystery": {
+      "genre": "Mystery",
+      "movies": [
+        "vA1fsJjK5N2z108dPo24"
       ],
       "series": []
     },
@@ -90,5 +102,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-03T13:20:26.233Z"
+  "exported_at": "2025-12-04T07:17:47.443Z"
 }
