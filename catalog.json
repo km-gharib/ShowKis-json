@@ -14,7 +14,6 @@
         "Science Fiction",
         "Thriller"
       ],
-      "isFeatured": false,
       "type": "movie",
       "isActive": true,
       "viewCount": 0,
@@ -27,7 +26,8 @@
       "uploadedAt": {
         "_seconds": 1764869970,
         "_nanoseconds": 69000000
-      }
+      },
+      "isFeatured": true
     },
     {
       "id": "vA1fsJjK5N2z108dPo24",
@@ -42,7 +42,6 @@
         "Action",
         "Mystery"
       ],
-      "isFeatured": true,
       "type": "movie",
       "isActive": true,
       "viewCount": 0,
@@ -55,7 +54,8 @@
       "uploadedAt": {
         "_seconds": 1764832644,
         "_nanoseconds": 711000000
-      }
+      },
+      "isFeatured": false
     },
     {
       "id": "iMC9sCby29flWILi2xR1",
@@ -314,5 +314,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-04T17:40:00.324Z"
+  "exported_at": "2025-12-04T17:42:20.111Z"
 }
