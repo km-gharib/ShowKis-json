@@ -339,13 +339,17 @@
               "episodeNumber": 6,
               "title": "Mortal Combat",
               "thumbnailUrl": "https://image.tmdb.org/t/p/w300/jrKrgTc2NfdzR76Kb3uqp9N2l2q.jpg",
-              "videoUrls": {},
-              "downloadUrls": {}
+              "videoUrls": {
+                "default": "https://rumble.com/embed/v70kfy4/?pub=4nouw2"
+              },
+              "downloadUrls": {
+                "default": "https://archive.org/download/mwanamapanga06/Last.Samurai.Standing.S01E06.ia.mp4"
+              }
             }
           ]
         }
       ]
     }
   ],
-  "exported_at": "2025-12-08T11:10:55.991Z"
+  "exported_at": "2025-12-08T13:49:01.074Z"
 }
