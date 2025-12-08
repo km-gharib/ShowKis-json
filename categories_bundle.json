@@ -1,5 +1,17 @@
 {
   "index": {
+    "action": {
+      "movies": 8,
+      "series": 0
+    },
+    "comedy": {
+      "movies": 1,
+      "series": 0
+    },
+    "crime": {
+      "movies": 3,
+      "series": 0
+    },
     "romance": {
       "movies": 1,
       "series": 0
@@ -12,20 +24,12 @@
       "movies": 5,
       "series": 0
     },
-    "action": {
-      "movies": 7,
-      "series": 0
-    },
     "mystery": {
       "movies": 1,
       "series": 0
     },
     "adventure": {
       "movies": 1,
-      "series": 0
-    },
-    "crime": {
-      "movies": 2,
       "series": 0
     },
     "action_&_adventure": {
@@ -38,6 +42,36 @@
     }
   },
   "docs": {
+    "action": {
+      "genre": "Action",
+      "movies": [
+        "tYDisH9mryshVwGelBMH",
+        "vA1fsJjK5N2z108dPo24",
+        "iMC9sCby29flWILi2xR1",
+        "JfN1fXvg3kDA2CpsJdyW",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE",
+        "ZcQvhDa8PTaMoMVwS5Y2",
+        "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "comedy": {
+      "genre": "Comedy",
+      "movies": [
+        "tYDisH9mryshVwGelBMH"
+      ],
+      "series": []
+    },
+    "crime": {
+      "genre": "Crime",
+      "movies": [
+        "tYDisH9mryshVwGelBMH",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE"
+      ],
+      "series": []
+    },
     "romance": {
       "genre": "Romance",
       "movies": [
@@ -65,19 +99,6 @@
       ],
       "series": []
     },
-    "action": {
-      "genre": "Action",
-      "movies": [
-        "vA1fsJjK5N2z108dPo24",
-        "iMC9sCby29flWILi2xR1",
-        "JfN1fXvg3kDA2CpsJdyW",
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE",
-        "ZcQvhDa8PTaMoMVwS5Y2",
-        "OmNdS4rfAZwFGLWErwby"
-      ],
-      "series": []
-    },
     "mystery": {
       "genre": "Mystery",
       "movies": [
@@ -89,14 +110,6 @@
       "genre": "Adventure",
       "movies": [
         "iMC9sCby29flWILi2xR1"
-      ],
-      "series": []
-    },
-    "crime": {
-      "genre": "Crime",
-      "movies": [
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE"
       ],
       "series": []
     },
@@ -115,5 +128,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-04T17:42:19.371Z"
+  "exported_at": "2025-12-08T09:17:58.174Z"
 }
