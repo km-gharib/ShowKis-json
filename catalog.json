@@ -1,6 +1,35 @@
 {
   "movies": [
     {
+      "id": "0SIEDQmNm3ckD63cSn39",
+      "title": "Dracula",
+      "description": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
+      "rating": 7.1,
+      "releaseYear": 2025,
+      "duration": 130,
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Romance"
+      ],
+      "isFeatured": true,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v70qh9g/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/drakula_202512/Dracula.2025.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1765535833,
+        "_nanoseconds": 528000000
+      }
+    },
+    {
       "id": "3zkQpB1Fr16VIqo8Z0xM",
       "title": "Trap House",
       "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents' tactics and top-secret intel to do it.",
@@ -380,5 +409,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-11T13:49:29.689Z"
+  "exported_at": "2025-12-12T10:37:46.419Z"
 }

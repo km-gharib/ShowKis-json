@@ -1,5 +1,17 @@
 {
   "index": {
+    "horror": {
+      "movies": 1,
+      "series": 0
+    },
+    "fantasy": {
+      "movies": 1,
+      "series": 0
+    },
+    "romance": {
+      "movies": 2,
+      "series": 0
+    },
     "action": {
       "movies": 9,
       "series": 0
@@ -13,10 +25,6 @@
       "series": 0
     },
     "comedy": {
-      "movies": 1,
-      "series": 0
-    },
-    "romance": {
       "movies": 1,
       "series": 0
     },
@@ -42,6 +50,28 @@
     }
   },
   "docs": {
+    "horror": {
+      "genre": "Horror",
+      "movies": [
+        "0SIEDQmNm3ckD63cSn39"
+      ],
+      "series": []
+    },
+    "fantasy": {
+      "genre": "Fantasy",
+      "movies": [
+        "0SIEDQmNm3ckD63cSn39"
+      ],
+      "series": []
+    },
+    "romance": {
+      "genre": "Romance",
+      "movies": [
+        "0SIEDQmNm3ckD63cSn39",
+        "OJeoH7AxlEhD77oqzNzG"
+      ],
+      "series": []
+    },
     "action": {
       "genre": "Action",
       "movies": [
@@ -86,13 +116,6 @@
       ],
       "series": []
     },
-    "romance": {
-      "genre": "Romance",
-      "movies": [
-        "OJeoH7AxlEhD77oqzNzG"
-      ],
-      "series": []
-    },
     "science_fiction": {
       "genre": "Science Fiction",
       "movies": [
@@ -131,5 +154,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-11T13:49:28.907Z"
+  "exported_at": "2025-12-12T10:37:45.665Z"
 }
