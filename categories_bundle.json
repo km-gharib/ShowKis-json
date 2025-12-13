@@ -1,19 +1,19 @@
 {
   "index": {
+    "horror": {
+      "movies": 2,
+      "series": 0
+    },
+    "thriller": {
+      "movies": 8,
+      "series": 0
+    },
     "action": {
       "movies": 10,
       "series": 0
     },
-    "thriller": {
-      "movies": 7,
-      "series": 0
-    },
     "science_fiction": {
       "movies": 4,
-      "series": 0
-    },
-    "horror": {
-      "movies": 1,
       "series": 0
     },
     "fantasy": {
@@ -50,6 +50,28 @@
     }
   },
   "docs": {
+    "horror": {
+      "genre": "Horror",
+      "movies": [
+        "2kVl2b7BH2N3MpF0rdLE",
+        "0SIEDQmNm3ckD63cSn39"
+      ],
+      "series": []
+    },
+    "thriller": {
+      "genre": "Thriller",
+      "movies": [
+        "2kVl2b7BH2N3MpF0rdLE",
+        "wToY8NdFXOeyyWeHWfQX",
+        "3zkQpB1Fr16VIqo8Z0xM",
+        "OJeoH7AxlEhD77oqzNzG",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE",
+        "ZcQvhDa8PTaMoMVwS5Y2",
+        "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
     "action": {
       "genre": "Action",
       "movies": [
@@ -66,19 +88,6 @@
       ],
       "series": []
     },
-    "thriller": {
-      "genre": "Thriller",
-      "movies": [
-        "wToY8NdFXOeyyWeHWfQX",
-        "3zkQpB1Fr16VIqo8Z0xM",
-        "OJeoH7AxlEhD77oqzNzG",
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE",
-        "ZcQvhDa8PTaMoMVwS5Y2",
-        "OmNdS4rfAZwFGLWErwby"
-      ],
-      "series": []
-    },
     "science_fiction": {
       "genre": "Science Fiction",
       "movies": [
@@ -86,13 +95,6 @@
         "OJeoH7AxlEhD77oqzNzG",
         "iMC9sCby29flWILi2xR1",
         "JfN1fXvg3kDA2CpsJdyW"
-      ],
-      "series": []
-    },
-    "horror": {
-      "genre": "Horror",
-      "movies": [
-        "0SIEDQmNm3ckD63cSn39"
       ],
       "series": []
     },
@@ -157,5 +159,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-13T14:00:25.555Z"
+  "exported_at": "2025-12-13T17:52:49.179Z"
 }

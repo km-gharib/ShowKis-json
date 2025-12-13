@@ -1,6 +1,34 @@
 {
   "movies": [
     {
+      "id": "2kVl2b7BH2N3MpF0rdLE",
+      "title": "The Strangers: Chapter 1",
+      "description": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+      "rating": 5.652,
+      "releaseYear": 2024,
+      "duration": 91,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "isFeatured": false,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v70seh0/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/watu-wasiojulikana-part-1/watu%20wasiojulikana%20part1.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1765648344,
+        "_nanoseconds": 638000000
+      }
+    },
+    {
       "id": "wToY8NdFXOeyyWeHWfQX",
       "title": "The Running Man",
       "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
@@ -438,5 +466,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-13T14:00:26.334Z"
+  "exported_at": "2025-12-13T17:52:50.268Z"
 }
