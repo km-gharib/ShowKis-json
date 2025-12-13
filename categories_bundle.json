@@ -1,5 +1,17 @@
 {
   "index": {
+    "action": {
+      "movies": 10,
+      "series": 0
+    },
+    "thriller": {
+      "movies": 7,
+      "series": 0
+    },
+    "science_fiction": {
+      "movies": 4,
+      "series": 0
+    },
     "horror": {
       "movies": 1,
       "series": 0
@@ -12,24 +24,12 @@
       "movies": 2,
       "series": 0
     },
-    "action": {
-      "movies": 9,
-      "series": 0
-    },
     "crime": {
       "movies": 4,
       "series": 0
     },
-    "thriller": {
-      "movies": 6,
-      "series": 0
-    },
     "comedy": {
       "movies": 1,
-      "series": 0
-    },
-    "science_fiction": {
-      "movies": 3,
       "series": 0
     },
     "mystery": {
@@ -50,6 +50,45 @@
     }
   },
   "docs": {
+    "action": {
+      "genre": "Action",
+      "movies": [
+        "wToY8NdFXOeyyWeHWfQX",
+        "3zkQpB1Fr16VIqo8Z0xM",
+        "tYDisH9mryshVwGelBMH",
+        "vA1fsJjK5N2z108dPo24",
+        "iMC9sCby29flWILi2xR1",
+        "JfN1fXvg3kDA2CpsJdyW",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE",
+        "ZcQvhDa8PTaMoMVwS5Y2",
+        "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "thriller": {
+      "genre": "Thriller",
+      "movies": [
+        "wToY8NdFXOeyyWeHWfQX",
+        "3zkQpB1Fr16VIqo8Z0xM",
+        "OJeoH7AxlEhD77oqzNzG",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE",
+        "ZcQvhDa8PTaMoMVwS5Y2",
+        "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "science_fiction": {
+      "genre": "Science Fiction",
+      "movies": [
+        "wToY8NdFXOeyyWeHWfQX",
+        "OJeoH7AxlEhD77oqzNzG",
+        "iMC9sCby29flWILi2xR1",
+        "JfN1fXvg3kDA2CpsJdyW"
+      ],
+      "series": []
+    },
     "horror": {
       "genre": "Horror",
       "movies": [
@@ -72,21 +111,6 @@
       ],
       "series": []
     },
-    "action": {
-      "genre": "Action",
-      "movies": [
-        "3zkQpB1Fr16VIqo8Z0xM",
-        "tYDisH9mryshVwGelBMH",
-        "vA1fsJjK5N2z108dPo24",
-        "iMC9sCby29flWILi2xR1",
-        "JfN1fXvg3kDA2CpsJdyW",
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE",
-        "ZcQvhDa8PTaMoMVwS5Y2",
-        "OmNdS4rfAZwFGLWErwby"
-      ],
-      "series": []
-    },
     "crime": {
       "genre": "Crime",
       "movies": [
@@ -97,31 +121,10 @@
       ],
       "series": []
     },
-    "thriller": {
-      "genre": "Thriller",
-      "movies": [
-        "3zkQpB1Fr16VIqo8Z0xM",
-        "OJeoH7AxlEhD77oqzNzG",
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE",
-        "ZcQvhDa8PTaMoMVwS5Y2",
-        "OmNdS4rfAZwFGLWErwby"
-      ],
-      "series": []
-    },
     "comedy": {
       "genre": "Comedy",
       "movies": [
         "tYDisH9mryshVwGelBMH"
-      ],
-      "series": []
-    },
-    "science_fiction": {
-      "genre": "Science Fiction",
-      "movies": [
-        "OJeoH7AxlEhD77oqzNzG",
-        "iMC9sCby29flWILi2xR1",
-        "JfN1fXvg3kDA2CpsJdyW"
       ],
       "series": []
     },
@@ -154,5 +157,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-12T10:37:45.665Z"
+  "exported_at": "2025-12-13T14:00:25.555Z"
 }
