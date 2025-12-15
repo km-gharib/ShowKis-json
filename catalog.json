@@ -403,6 +403,70 @@
   ],
   "series": [
     {
+      "id": "Ojmt0JIEyA0bSsHJeRI4",
+      "title": "The War Between the Land and the Sea",
+      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+      "rating": 7,
+      "releaseYear": 2025,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/zU8BfAE8pqlQSaiCCrZIWJm4YTM.jpg",
+      "type": "series",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodeCount": 0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Homo Aqua",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ql1CuAoTpggQSsC18HTt9m5rCAu.jpg",
+              "videoUrls": {
+                "default": "https://rumble.com/embed/v70v7eq/?pub=4nouw2"
+              },
+              "downloadUrls": {
+                "default": "https://archive.org/download/kavu-na-maji-01/kavu%20na%20maji%2001.ia.mp4"
+              }
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Plastic Apocalypse",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 3,
+              "title": "The Deep",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/wCBpt7Ljr6VRO1VGsUjCJG4ffbq.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 4,
+              "title": "The Witch of the Waterfall",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/2MRLTb5r6QnpHDlvAdLEzgxV3s6.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            },
+            {
+              "episodeNumber": 5,
+              "title": "The End of the War",
+              "thumbnailUrl": "https://image.tmdb.org/t/p/w300/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg",
+              "videoUrls": {},
+              "downloadUrls": {}
+            }
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "uploadedAt": "2025-12-15T17:36:37.961Z"
+    },
+    {
       "id": "YPZrYRbJngKvIYD6NSg2",
       "type": "series",
       "isFeatured": true,
@@ -494,5 +558,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-15T11:18:25.191Z"
+  "exported_at": "2025-12-15T17:37:26.460Z"
 }

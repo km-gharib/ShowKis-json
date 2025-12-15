@@ -40,11 +40,15 @@
       "movies": 1,
       "series": 0
     },
-    "action_&_adventure": {
+    "sci-fi_&_fantasy": {
       "movies": 0,
       "series": 1
     },
     "drama": {
+      "movies": 0,
+      "series": 2
+    },
+    "action_&_adventure": {
       "movies": 0,
       "series": 1
     }
@@ -146,20 +150,28 @@
       ],
       "series": []
     },
-    "action_&_adventure": {
-      "genre": "Action & Adventure",
+    "sci-fi_&_fantasy": {
+      "genre": "Sci-Fi & Fantasy",
       "movies": [],
       "series": [
-        "YPZrYRbJngKvIYD6NSg2"
+        "Ojmt0JIEyA0bSsHJeRI4"
       ]
     },
     "drama": {
       "genre": "Drama",
       "movies": [],
       "series": [
+        "Ojmt0JIEyA0bSsHJeRI4",
+        "YPZrYRbJngKvIYD6NSg2"
+      ]
+    },
+    "action_&_adventure": {
+      "genre": "Action & Adventure",
+      "movies": [],
+      "series": [
         "YPZrYRbJngKvIYD6NSg2"
       ]
     }
   },
-  "exported_at": "2025-12-15T11:18:24.435Z"
+  "exported_at": "2025-12-15T17:37:25.695Z"
 }
