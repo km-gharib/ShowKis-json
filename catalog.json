@@ -1,6 +1,34 @@
 {
   "movies": [
     {
+      "id": "Cp5yw52jE8LiILR4k8Q0",
+      "title": "The Strangers: Chapter 2",
+      "description": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
+      "rating": 6.069,
+      "releaseYear": 2025,
+      "duration": 98,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "isFeatured": true,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v70utgi/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/watu-wasiojulikana.-2/watu%20wasiojulikana.2.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1765797471,
+        "_nanoseconds": 795000000
+      }
+    },
+    {
       "id": "2kVl2b7BH2N3MpF0rdLE",
       "title": "The Strangers: Chapter 1",
       "description": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
@@ -466,5 +494,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-13T17:52:50.268Z"
+  "exported_at": "2025-12-15T11:18:25.191Z"
 }

@@ -1,11 +1,11 @@
 {
   "index": {
     "horror": {
-      "movies": 2,
+      "movies": 3,
       "series": 0
     },
     "thriller": {
-      "movies": 8,
+      "movies": 9,
       "series": 0
     },
     "action": {
@@ -53,6 +53,7 @@
     "horror": {
       "genre": "Horror",
       "movies": [
+        "Cp5yw52jE8LiILR4k8Q0",
         "2kVl2b7BH2N3MpF0rdLE",
         "0SIEDQmNm3ckD63cSn39"
       ],
@@ -61,6 +62,7 @@
     "thriller": {
       "genre": "Thriller",
       "movies": [
+        "Cp5yw52jE8LiILR4k8Q0",
         "2kVl2b7BH2N3MpF0rdLE",
         "wToY8NdFXOeyyWeHWfQX",
         "3zkQpB1Fr16VIqo8Z0xM",
@@ -159,5 +161,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-13T17:52:49.179Z"
+  "exported_at": "2025-12-15T11:18:24.435Z"
 }
