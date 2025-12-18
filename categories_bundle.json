@@ -1,5 +1,13 @@
 {
   "index": {
+    "action": {
+      "movies": 11,
+      "series": 0
+    },
+    "war": {
+      "movies": 1,
+      "series": 0
+    },
     "drama": {
       "movies": 1,
       "series": 2
@@ -14,10 +22,6 @@
     },
     "thriller": {
       "movies": 9,
-      "series": 0
-    },
-    "action": {
-      "movies": 10,
       "series": 0
     },
     "science_fiction": {
@@ -54,6 +58,30 @@
     }
   },
   "docs": {
+    "action": {
+      "genre": "Action",
+      "movies": [
+        "RNuT1DbllZx7arbrIZBo",
+        "wToY8NdFXOeyyWeHWfQX",
+        "3zkQpB1Fr16VIqo8Z0xM",
+        "tYDisH9mryshVwGelBMH",
+        "vA1fsJjK5N2z108dPo24",
+        "iMC9sCby29flWILi2xR1",
+        "JfN1fXvg3kDA2CpsJdyW",
+        "0jYGNU4tO2PltFh9O0vH",
+        "80L9LrGKyODq1fk41wrE",
+        "ZcQvhDa8PTaMoMVwS5Y2",
+        "OmNdS4rfAZwFGLWErwby"
+      ],
+      "series": []
+    },
+    "war": {
+      "genre": "War",
+      "movies": [
+        "RNuT1DbllZx7arbrIZBo"
+      ],
+      "series": []
+    },
     "drama": {
       "genre": "Drama",
       "movies": [
@@ -90,22 +118,6 @@
         "wToY8NdFXOeyyWeHWfQX",
         "3zkQpB1Fr16VIqo8Z0xM",
         "OJeoH7AxlEhD77oqzNzG",
-        "0jYGNU4tO2PltFh9O0vH",
-        "80L9LrGKyODq1fk41wrE",
-        "ZcQvhDa8PTaMoMVwS5Y2",
-        "OmNdS4rfAZwFGLWErwby"
-      ],
-      "series": []
-    },
-    "action": {
-      "genre": "Action",
-      "movies": [
-        "wToY8NdFXOeyyWeHWfQX",
-        "3zkQpB1Fr16VIqo8Z0xM",
-        "tYDisH9mryshVwGelBMH",
-        "vA1fsJjK5N2z108dPo24",
-        "iMC9sCby29flWILi2xR1",
-        "JfN1fXvg3kDA2CpsJdyW",
         "0jYGNU4tO2PltFh9O0vH",
         "80L9LrGKyODq1fk41wrE",
         "ZcQvhDa8PTaMoMVwS5Y2",
@@ -177,5 +189,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-18T09:01:44.273Z"
+  "exported_at": "2025-12-18T12:35:02.447Z"
 }
