@@ -1,6 +1,35 @@
 {
   "movies": [
     {
+      "id": "Q6SxUkY2hKAtfOKt5gNr",
+      "title": "Frankenstein",
+      "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "rating": 7.7,
+      "releaseYear": 2025,
+      "duration": 150,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "isFeatured": true,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v70xwec/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/mnyama-frankenstein/MnyamaFrankenstein.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1766048408,
+        "_nanoseconds": 540000000
+      }
+    },
+    {
       "id": "Cp5yw52jE8LiILR4k8Q0",
       "title": "The Strangers: Chapter 2",
       "description": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
@@ -415,10 +444,13 @@
       "thumbnailUrl": "https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
       "bannerUrl": "https://image.tmdb.org/t/p/original/zU8BfAE8pqlQSaiCCrZIWJm4YTM.jpg",
       "type": "series",
+      "isFeatured": true,
+      "isActive": true,
+      "uploadedAt": "2025-12-15T17:36:37.961Z",
       "seasons": [
         {
           "seasonNumber": 1,
-          "episodeCount": 0,
+          "episodeCount": 5,
           "episodes": [
             {
               "episodeNumber": 1,
@@ -435,8 +467,12 @@
               "episodeNumber": 2,
               "title": "Plastic Apocalypse",
               "thumbnailUrl": "https://image.tmdb.org/t/p/w300/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg",
-              "videoUrls": {},
-              "downloadUrls": {}
+              "videoUrls": {
+                "default": "https://rumble.com/embed/v70ybrk/?pub=4nouw2"
+              },
+              "downloadUrls": {
+                "default": "https://archive.org/download/kavu-na-maji-02/kavu%20na%20maji%2002.ia.mp4"
+              }
             },
             {
               "episodeNumber": 3,
@@ -461,10 +497,7 @@
             }
           ]
         }
-      ],
-      "isFeatured": true,
-      "isActive": true,
-      "uploadedAt": "2025-12-15T17:36:37.961Z"
+      ]
     },
     {
       "id": "YPZrYRbJngKvIYD6NSg2",
@@ -558,5 +591,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-15T17:37:26.460Z"
+  "exported_at": "2025-12-18T09:01:45.060Z"
 }

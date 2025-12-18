@@ -1,7 +1,15 @@
 {
   "index": {
+    "drama": {
+      "movies": 1,
+      "series": 2
+    },
+    "fantasy": {
+      "movies": 2,
+      "series": 0
+    },
     "horror": {
-      "movies": 3,
+      "movies": 4,
       "series": 0
     },
     "thriller": {
@@ -14,10 +22,6 @@
     },
     "science_fiction": {
       "movies": 4,
-      "series": 0
-    },
-    "fantasy": {
-      "movies": 1,
       "series": 0
     },
     "romance": {
@@ -44,19 +48,34 @@
       "movies": 0,
       "series": 1
     },
-    "drama": {
-      "movies": 0,
-      "series": 2
-    },
     "action_&_adventure": {
       "movies": 0,
       "series": 1
     }
   },
   "docs": {
+    "drama": {
+      "genre": "Drama",
+      "movies": [
+        "Q6SxUkY2hKAtfOKt5gNr"
+      ],
+      "series": [
+        "Ojmt0JIEyA0bSsHJeRI4",
+        "YPZrYRbJngKvIYD6NSg2"
+      ]
+    },
+    "fantasy": {
+      "genre": "Fantasy",
+      "movies": [
+        "Q6SxUkY2hKAtfOKt5gNr",
+        "0SIEDQmNm3ckD63cSn39"
+      ],
+      "series": []
+    },
     "horror": {
       "genre": "Horror",
       "movies": [
+        "Q6SxUkY2hKAtfOKt5gNr",
         "Cp5yw52jE8LiILR4k8Q0",
         "2kVl2b7BH2N3MpF0rdLE",
         "0SIEDQmNm3ckD63cSn39"
@@ -101,13 +120,6 @@
         "OJeoH7AxlEhD77oqzNzG",
         "iMC9sCby29flWILi2xR1",
         "JfN1fXvg3kDA2CpsJdyW"
-      ],
-      "series": []
-    },
-    "fantasy": {
-      "genre": "Fantasy",
-      "movies": [
-        "0SIEDQmNm3ckD63cSn39"
       ],
       "series": []
     },
@@ -157,14 +169,6 @@
         "Ojmt0JIEyA0bSsHJeRI4"
       ]
     },
-    "drama": {
-      "genre": "Drama",
-      "movies": [],
-      "series": [
-        "Ojmt0JIEyA0bSsHJeRI4",
-        "YPZrYRbJngKvIYD6NSg2"
-      ]
-    },
     "action_&_adventure": {
       "genre": "Action & Adventure",
       "movies": [],
@@ -173,5 +177,5 @@
       ]
     }
   },
-  "exported_at": "2025-12-15T17:37:25.695Z"
+  "exported_at": "2025-12-18T09:01:44.273Z"
 }
