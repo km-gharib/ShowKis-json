@@ -1,6 +1,35 @@
 {
   "movies": [
     {
+      "id": "7ndEySWFQtYUqYsY9abP",
+      "title": "Now You See Me: Now You Don't",
+      "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "bannerUrl": "https://image.tmdb.org/t/p/original/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "rating": 6.415,
+      "releaseYear": 2025,
+      "duration": 112,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "isFeatured": true,
+      "type": "movie",
+      "isActive": true,
+      "viewCount": 0,
+      "videoUrls": {
+        "hd": "https://rumble.com/embed/v712e7g/?pub=4nouw2"
+      },
+      "downloadUrls": {
+        "hd": "https://archive.org/download/sasa-unaniona/Sasa%20unaniona.ia.mp4"
+      },
+      "uploadedAt": {
+        "_seconds": 1766217984,
+        "_nanoseconds": 381000000
+      }
+    },
+    {
       "id": "RNuT1DbllZx7arbrIZBo",
       "title": "Sisu: Road to Revenge",
       "description": "Returning to the house where his family was brutally murdered during the war, ‘the man who refuses to die’ dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
@@ -619,5 +648,5 @@
       ]
     }
   ],
-  "exported_at": "2025-12-18T12:35:03.294Z"
+  "exported_at": "2025-12-20T08:08:14.780Z"
 }
